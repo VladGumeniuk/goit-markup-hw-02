@@ -15,6 +15,7 @@ li {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
 .logo-title-web {
@@ -64,19 +65,22 @@ li {
   color: #fff;
 }
 
-.banner-button {
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 1.8;
-
-  letter-spacing: 0.06em;
-
-  color: #333;
+.banner-pos {
+  text-align: center;
 }
 
 .banner-button-text {
-  text-decoration: none;
-  color: #fff;
+  padding: 10px 32px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+
+  background: #2196f3;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
 }
 
 /* WHAT DO YOU */
